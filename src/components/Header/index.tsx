@@ -23,32 +23,32 @@ export function Header() {
       </header>
 
       <div className={styles.technologies}>
-       <div>
+       <div className={styles.techBox}>
         <img src={githubIcon} alt="Logo do github" />
         <span>GitHub</span>
        </div>
       
-       <div>
+       <div className={styles.techBox}>
         <img src={htmlIcon} alt="Logo da tecnologia HTML" />
         <span>HTML</span>
        </div>
 
-       <div>
+       <div className={styles.techBox}>
         <img src={cssIcon} alt="Logo da tecnologia CSS" />
         <span>CSS</span>
        </div>
 
-       <div>
+       <div className={styles.techBox}>
         <img src={jsIcon} alt="Logo da tecnologia Javascript" />
         <span>Javascript</span>
        </div>
 
-       <div>
+       <div className={styles.techBox}>
         <img src={reactIcon} alt="Logo da tecnologia React" />
         <span>React</span>
        </div>
 
-       <div>
+       <div className={styles.techBox}>
         <img src={nodeIcon} alt="Logo da tecnologia Node.js" />
         <span>Node.js</span>
        </div>
