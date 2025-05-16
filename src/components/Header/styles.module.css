@@ -92,6 +92,7 @@ span {
 
 @media only screen and (max-width: 767px) {
   .container {
+    height: 75vh;
     background-size: contain;
     background-position: top center;
     background-attachment: scroll;
@@ -99,48 +100,48 @@ span {
   }
 
   .container > img {
-  height: 5.75rem;
-}
+   height: 5.75rem;
+ }
 
-h1 {
+ h1 {
   font-size: 1rem;
   margin-top: 1rem;
-}
+ }
 
-h2 {
+ h2 {
   font-size: 1.5rem;
   margin-top: 1rem;
-}
+ }
 
-span {
+ span {
   font-size: 1.2rem;
-}
+ }
 
-p {
+ p {
   font-size: 1rem;
   margin-left: 1rem;
   margin-right: 1rem;
   margin-top: 1.3rem;
   margin-bottom: 1.5rem;
-}
+ }
 
-.technologies {
+ .technologies {
   margin-top: .5rem;
   gap: .5rem;
   flex-wrap: nowrap;
-}
+ }
 
-.techBox {
+ .techBox {
     width: 7rem;
     height: 2rem;
-  }
+ }
 
-.techBox img {
+ .techBox img {
     width: 1.5rem;
     height: 1.5rem;
-}
+ }
 
-.techBox span {
+ .techBox span {
     font-size: 0.875rem;
-}
+ }
 }

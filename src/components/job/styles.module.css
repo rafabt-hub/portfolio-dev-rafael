@@ -16,3 +16,9 @@
 h1 {
   margin-bottom: 4rem;
 }
+
+@media (max-width: 767px) {
+  .container > img {
+  margin-top: 0;
+}
+}
