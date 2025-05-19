@@ -1,0 +1,40 @@
+.container {
+  width: 100%;
+  background-color: #0D0E11;
+  background-size: cover;
+  padding: 5em;
+  text-align: center;
+}
+
+.servicesBox {
+  text-align: left;
+  width: 18.5rem;
+  height: 9.65rem;
+  margin-top: 2rem;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #878EA1;
+  border-radius: 1.5rem;
+  align-items: center;
+  padding: 1em;
+
+  & h5 {
+  font-size: 1rem;
+  line-height: 180%;
+  font-weight: 700;
+  color: #E2E4E9;
+  }
+
+  & h6 {
+  font-size: 14px;
+  line-height: 140%;
+  font-weight: 400;
+  color: #C0C4Ce;
+  }
+}
+
+.section {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+}
