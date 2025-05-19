@@ -2,6 +2,7 @@ import styles from "./app.module.css"
 
 import { Job } from "./components/Tittle-projects"
 import { Header } from "./components/Header"
+import { Contacts } from "./components/Contacts"
 import { Services } from "./components/Services"
 import { Projects } from "./components/Projects"
 
@@ -13,6 +14,7 @@ export default function App() {
         <Job />
         <Projects />
         <Services />
+        <Contacts />
       </div>
     </main>
   )
