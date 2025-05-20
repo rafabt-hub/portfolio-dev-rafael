@@ -15,19 +15,19 @@ export function Contacts() {
       
       <div className={styles.contacts}>
         <div className={styles.contactsBox}>
-          <a href="" className={styles.links}><img src={linkedin} alt="Logo do linkedin" />Linkedin</a>
+          <a href="https://www.linkedin.com/in/rafael-thomaz-142008295/"  target="_blank" className={styles.links}><img src={linkedin} alt="Logo do linkedin" />Linkedin</a>
           <img src={arrow} alt="Icone de seta" />
         </div>
         <div className={styles.contactsBox}>
-          <a href="" className={styles.links}><img src={envelope} alt="Icone de envelope" />E-mail</a>
+          <a href="mailto:rafaelbthomaz@hotmail.com" className={styles.links}><img src={envelope} alt="Icone de envelope" />E-mail</a>
           <img src={arrow} alt="Icone de seta" />
         </div>
         <div className={styles.contactsBox}>
-          <a href="" className={styles.links}><img src={whatsapp} alt="Logo do whatsapp" />Whatsapp</a>
+          <a href="https://wa.me/5514996711137" target="_blank" rel="noopener noreferrer" className={styles.links}><img src={whatsapp} alt="Logo do whatsapp" />Whatsapp</a>
           <img src={arrow} alt="Icone de seta" />
         </div>
         <div className={styles.contactsBox}>
-          <a href="" className={styles.links}><img src={gitlogo} alt="Logo do github" />GitHub</a>
+          <a href="https://github.com/rafabt-hub" target="_blank" className={styles.links}><img src={gitlogo} alt="Logo do github" />GitHub</a>
           <img src={arrow} alt="Icone de seta" />
         </div>
       </div>
