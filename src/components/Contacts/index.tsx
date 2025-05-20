@@ -1,7 +1,7 @@
 import gitlogo from "../../assets/icons/GithubLogo.svg"
 import linkedin from "../../assets/icons/LinkedinLogo.svg"
 import envelope from "../../assets/icons/EnvelopeSimple.svg"
-import whatsapp from "../../assets/icons/whatsapp.svg"
+import whatsapp from "../../assets/icons/whatsapp1.svg"
 import arrow from "../../assets/icons/ArrowUpRight.svg"
 
 import styles from "./styles.module.css"
