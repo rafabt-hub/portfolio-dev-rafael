@@ -23,7 +23,7 @@ export function Contacts() {
           <img src={arrow} alt="Icone de seta" />
         </div>
         <div className={styles.contactsBox}>
-          <a href="https://wa.me/5514996711137" target="_blank" rel="noopener noreferrer" className={styles.links}><img src={whatsapp} alt="Logo do whatsapp" />Whatsapp</a>
+          <a href="https://wa.me/5514996711137" target="_blank" rel="noopener noreferrer" className={styles.links}><img src={whatsapp} alt="Logo do whatsapp" />Whats'app</a>
           <img src={arrow} alt="Icone de seta" />
         </div>
         <div className={styles.contactsBox}>
