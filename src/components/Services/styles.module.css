@@ -17,6 +17,8 @@
   border-radius: 1.5rem;
   align-items: center;
   padding: 1em;
+  transition: transform 0.3s ease;
+  box-shadow: none;
 
   & h5 {
   font-size: 1rem;
@@ -31,6 +33,10 @@
   font-weight: 400;
   color: #C0C4Ce;
   }
+}
+
+.servicesBox:hover {
+  transform: scale(1.06);
 }
 
 .section {
