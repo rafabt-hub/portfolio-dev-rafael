@@ -1,4 +1,4 @@
-import avatar from "../../assets/images/Avatar.png"
+import avatar from "../../assets/images/rafael.png"
 import githubIcon from '../../assets/icons/GitHub.svg'
 import htmlIcon from '../../assets/icons/HTML.png'
 import cssIcon from '../../assets/icons/CSS.png'
