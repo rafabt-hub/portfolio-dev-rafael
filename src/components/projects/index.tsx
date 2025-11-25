@@ -22,7 +22,7 @@ export function Projects() {
        <img src={projectTwo} className={styles.imgProject} alt="imagem projeto 1" />
         <h3>Tech News</h3>
         <h4>
-        Homepage de um portal de noticias sobre a area de tecnologia 
+        Homepage de um portal de noticias sobre a área de tecnologia 
         </h4>
       </div>
 
